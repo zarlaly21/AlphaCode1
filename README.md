@@ -1,1 +1,2 @@
 # AlphaCode1
+This project is a basic chatbot built with Python and machine learning, designed to interact with users by understanding and responding to simple queries. It uses natural language processing (NLP) to identify user intentions (intents) and responds from a predefined set of answers stored in an intents.json file. The model is trained using Keras to recognize patterns in text, employing tokenization and lemmatization for better accuracy.
